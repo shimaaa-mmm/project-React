@@ -46,7 +46,7 @@ ESLint
 
 📦 Installation
 Clone the repository:
-git clone https://github.com/yourusername/gpt-ui-project.git
+git clone 
 
 Go into the project directory:
 
@@ -85,7 +85,6 @@ New frontend projects and tutorials will be added in the future.
 
 Subscribe for updates:
 
-https://resource.jsmasterypro.com/newsletter
 
 <p align=“center”>
 
